@@ -6,7 +6,8 @@
 #from Strings import Strings
 #from Strings import Slicing_String
 #from Strings import Modify_String
-from Strings import EscapeCharacter
+#from Strings import EscapeCharacter
+import Numbers
 
 #print Hello World!
 print()

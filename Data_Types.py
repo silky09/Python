@@ -27,16 +27,16 @@ print(type(z))
 
 print()
 print("3. Sequence: list, tuple, range")
-x = ["HTML", "CSS", "PYTHON"]
+x = ["HTML", "CSS", "PYTHON"] #list
 print(x)
 print(type(x))
 print()
-x = ("HTML", "CSS", "PYTHON")
+x = ("HTML", "CSS", "PYTHON") #tuple
 print(x)
 print(type(x))
 
 print()
-x = range(6)
+x = range(6) #range
 print(x)
 print(type(x))
 

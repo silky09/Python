@@ -7,7 +7,8 @@
 #from Strings import Slicing_String
 #from Strings import Modify_String
 #from Strings import EscapeCharacter
-import Numbers
+#import Numbers
+from Booleans import Booleans
 
 #print Hello World!
 print()

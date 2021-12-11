@@ -16,11 +16,14 @@
 # from Collections_DataTypes import dictionary
 #import if_else
 #from Loops import for_loop
-
+from Projects.variables import band_name_generator
 
 #print Hello World!
 print()
 print("Hello World!")
+
+#New lines can be created with a backslash and n.
+#  /n
 
 
 

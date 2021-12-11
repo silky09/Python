@@ -10,10 +10,12 @@
 #import Numbers
 #from Booleans import Booleans
 # from Operators import Operators
-from Collections_DataTypes import list
-from Collections_DataTypes import tuple
-from Collections_DataTypes import set
-from Collections_DataTypes import dictionary
+# from Collections_DataTypes import list
+# from Collections_DataTypes import tuple
+# from Collections_DataTypes import set
+# from Collections_DataTypes import dictionary
+import if_else
+
 #print Hello World!
 print()
 print("Hello World!")

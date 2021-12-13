@@ -19,7 +19,8 @@
 #from Projects.variables import band_name_generator
 #from Projects.data_types import datatypes
 #from Loops import for_loop
-from Loops import while_loop
+#from Loops import while_loop
+from Functions import function 
 
 
 #print Hello World!
@@ -28,8 +29,5 @@ print("Hello World!")
 
 #New lines can be created with a backslash and n.
 #  /n
-
-
-
 
 

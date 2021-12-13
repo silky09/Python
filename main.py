@@ -20,8 +20,8 @@
 #from Projects.data_types import datatypes
 #from Loops import for_loop
 #from Loops import while_loop
-from Functions import function 
-
+#from Functions import function 
+from Classes import classes 
 
 #print Hello World!
 print()

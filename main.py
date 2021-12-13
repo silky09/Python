@@ -21,11 +21,13 @@
 #from Loops import for_loop
 #from Loops import while_loop
 #from Functions import function 
-from Classes import classes 
+#from Classes import classes 
 
 #print Hello World!
 print()
 print("Hello World!")
+print("I have completed python_basic!!")
+
 
 #New lines can be created with a backslash and n.
 #  /n
